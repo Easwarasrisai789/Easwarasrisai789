@@ -84,7 +84,7 @@
 
 ### 👁️ FaceHealth – Face Recognition Health Analyzer
 - Face scanning, ML-based health suggestions, real-time analysis.  
-**Demo:** https://facehealth.onrender.com/ (alternate https://lnkd.in/gGXw65Qy)
+**Demo:** https://facehealth.onrender.com/ 
 
 ---
 
