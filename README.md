@@ -107,10 +107,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Easwarasrisai789/Easwarasrisai789/output/snake.svg" />
 </p>
+
 
 ---
 
