@@ -91,20 +91,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Easwarasrisai789&theme=tokyonight&show_icons=true&hide_border=true" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easwarasrisai789&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Easwarasrisai789&show_icons=true&theme=tokyonight" height="170"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Easwarasrisai789&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Easwarasrisai789&theme=tokyonight&hide_border=true" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Easwarasrisai789&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Easwarasrisai789/Easwarasrisai789/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Easwarasrisai789/Easwarasrisai789/output/snake.svg" />
 </p>
 
 ---
