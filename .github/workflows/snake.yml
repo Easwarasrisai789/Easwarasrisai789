@@ -1,4 +1,4 @@
-name: Generate Snake
+name: generate-snake
 
 on:
   schedule:
@@ -10,16 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: Easwarasrisai789
           outputs: dist/snake.svg
 
-      - name: Push Snake Animation to output branch
+      - name: Upload snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
