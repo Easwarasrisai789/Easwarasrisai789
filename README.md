@@ -59,8 +59,6 @@
 - Embed emergency data in QR codes (hospitals, routes, first aid); Q-learning agent recommends whether to dispatch Ambulance/Fire/Police.  
 - Offline-capable QR payloads; real-time responder UI.  
 **Demo:** https://emergency-responce.onrender.com/  
-**Screenshot:**  
-<img src="/mnt/data/6590960d-4d00-4bd0-8356-78dcd7735a8e.png" alt="QR screenshot" width="100%" />
 
 ---
 
