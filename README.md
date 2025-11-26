@@ -49,7 +49,7 @@
   </a>
 </p>
 
-> _Tip:_ These badge-buttons are clickable and look like buttons on GitHub. GitHub doesn't allow hover CSS in `README.md`, so for hover effects use the HTML/CSS portfolio below.
+
 
 ---
 
