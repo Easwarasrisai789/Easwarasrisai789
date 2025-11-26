@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **A. Easwara Sri Sai Venkat**
+# 👋 Hi, I'm **Ankamreddi Easwara Sri Sai Venkat**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Big+Data+Analytics;AI+%7C+ML+%7C+React+Developer;Building+Real-Time+AI+Systems;Python+%7C+MongoDB+%7C+Azure" alt="typing" />
