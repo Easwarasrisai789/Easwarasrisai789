@@ -10,7 +10,7 @@
 - 🎓 **B.Tech – Data Science**, KL University, Vijayawada  
 - 🤖 Building intelligent systems using **AI, ML, Deep Learning, Computer Vision & Full-Stack Development**  
 - ⚡ Skilled in **React, Firebase, SQL, MongoDB, Azure, Python, OpenCV**  
-- 🌱 Learning **Deep RL • Distributed Systems • DevOps**
+- 🌱 Learning **Deep RL • Distributed Systems**
 
 ---
 
